@@ -2,6 +2,11 @@
 
 # Magica Project
 
+![Demo video](./proposalAssets/demo.mp4)
+
+## Note
+No assets will be pushed to GitHub. It cannot be run without them. I do not want to share the files publicly.
+
 ## ✒️ Description
 
 A 3D Side-scroller where a party of (hopefully) three characters fight enemies using spells and skills that use their health to cast.
