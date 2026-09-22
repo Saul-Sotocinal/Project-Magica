@@ -2,7 +2,7 @@
 
 # Magica Project
 
-<iframe width="560" height="315" src="./proposalAssets/demo.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/cf40fb93-22b4-4ee2-91f4-c6ca976cd6c9
 
 ## Note
 No assets will be pushed to GitHub. It cannot be run without them. I do not want to share the files publicly.
